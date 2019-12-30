@@ -1,0 +1,1 @@
+epoca de rede Neurais, é cada rodada da aprendizagem 
